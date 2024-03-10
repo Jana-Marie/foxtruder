@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "otter")(type "KiCad")(uri "/home/jana/kicad/KiCAD-libs/otter.pretty")(options "")(descr ""))
+)
