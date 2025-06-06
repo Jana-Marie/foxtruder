@@ -26,6 +26,19 @@ Now, you might ask **why**?? To be clear, this is a stupid idea, an intrusive th
 
 I guess this exists now, enjoy?.
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="images/DSCF3018.jpg"/>
+      </td>
+      <td>
+        <img src="images/DSCF3506.jpg"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### State of this project and learnings
 
 It is not recommended to replicate this project in its current form, it is more of an experiment than a proper fog machine. Issues to be solved include but are not limited to:
