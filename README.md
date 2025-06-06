@@ -34,6 +34,7 @@ It is not recommended to replicate this project in its current form, it is more 
  - BOM cost, it should be optimized
  - Mechanical complexity, the valve-hotend interface requires some odd machining
  - Assembly complexity is too high
+ - Open health questions, it seems that fog-juice may be unhealthy when heated above 190°C, however for a proper, spit-free operation temperatures well above 250-300°C might be desired (as with commercial fog machines)
 
 ### FAQ
 
