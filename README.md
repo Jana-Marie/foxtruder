@@ -29,7 +29,7 @@ I guess this exists now, enjoy?.
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="68%">
         <img src="images/DSCF3018.jpg"/>
       </td>
       <td>
