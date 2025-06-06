@@ -20,8 +20,26 @@ Now, you might ask **why**?? To be clear, this is a stupid idea, an intrusive th
 
  I guess this exists now, enjoy?.
 
- ### FAQ
+### FAQ
 
- ##### Can this be run off a MacBooks USB-PD port?
+##### Can this be run off a MacBooks USB-PD port?
 
- Yes, that was the main mean of development.
+Yes, that was the main mean of development.
+
+### Initial conceptual drawing
+
+This needs updating, but this was the initial idea. The fog-juice tank is an external component now and the additional airflow controller to disturb the fog has not been implemented yet. Otherwise this is fairly true to foxtruder. The fog-juice tank is a real thing and has an input for pressurized air and an outlet for the liquid.
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="images/foggy_annotated.png"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### On the name
+
+Finding a name for this project was surprisingly complicated, we just included all names we came up with. The initial idea was to "paint it green and call it froggy", like a foggy small frog sitting in the morning mist of a luscious lawn. Then we went towards focussing on the nozzle, the snoot and eventually we arrived at foxtruder, just... don't boop it, it *will* bite.
