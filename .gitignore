@@ -12,3 +12,5 @@ build/
 *.jdebug
 *.jdebug.user
 *.ioc
+firmware-v1
+
