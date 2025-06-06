@@ -26,7 +26,7 @@ Now, you might ask **why**?? To be clear, this is a stupid idea, an intrusive th
 
 Yes, that was the main mean of development.
 
-### Initial conceptual drawing
+### Initial block diagram
 
 This needs updating, but this was the initial idea. The fog-juice tank is an external component now and the additional airflow controller to disturb the fog has not been implemented yet. Otherwise this is fairly true to foxtruder. The fog-juice tank is a real thing and has an input for pressurized air and an outlet for the liquid.
 
