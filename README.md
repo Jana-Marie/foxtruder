@@ -1,3 +1,5 @@
+# permanently moved to [codeberg/janam/foxtruder](https://codeberg.org/janam/foxtruder)
+
 # foxtruder
 
 **~~froggy~~**, **~~fog-o-nozzle~~**, **~~multimist~~**, **foxtruder [working title]** is a tiny fog machine powered by USB-PD, with Wifi and Bluetooth, based around a 3D-printer heat-cartridge and nozzle. As much as I wish to call this the worlds smallest **intentional** fog machine, sadly disposable vapes exist. Otherwise this one would be atop of the smaller fog-machines. To make it this small however, it requires an external pump, or rather a pressurized fog-fluid line, which can be connected to the 4mm pneumatic connector at the bottom. The idea here is to just have one fog-juice reservoir and pump for many fog machines. A valve on the board is used to switch the fog.
