@@ -41,7 +41,7 @@ I guess this exists now, enjoy?.
 
 ### State of this project and learnings
 
-It is not recommended to replicate this project in its current form, it is more of an experiment than a proper fog machine. Issues to be solved include but are not limited to:
+**It is not recommended to replicate this project in its current form, it is more of an experiment than a proper fog machine.** Issues to be solved include but are not limited to:
 
  - Spitting, the fog machine tends to not convert all fog-juice into fog
  - BOM cost, it should be optimized
